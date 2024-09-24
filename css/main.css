@@ -214,6 +214,7 @@ a {
   outline: none;
   color: var(--text);
   -webkit-appearance: none;
+  appearance: none;
   -webkit-tap-highlight-color: transparent;
 }
 
